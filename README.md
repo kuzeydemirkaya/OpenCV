@@ -26,5 +26,6 @@ Code serves as a tutorial and can be used to learn OpenCV
 - VIRTUAL PAINT (Paint with tip of a pen in air using Webcam)
 
 
+______
 *Directories and Image names in code need to be replaced with names of images in your own device*
-
+——————
